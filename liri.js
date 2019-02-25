@@ -84,7 +84,7 @@ function concertMe() {
 function spotifyIt() {
 
     if (finalSearch === "") {
-        finalSearch = "ace+of+base+the+sign"
+        finalSearch = "the+charlie+daniels+band+the+devil+went+down+to+georgia"
     }
 
     spotify.search({

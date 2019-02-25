@@ -191,3 +191,29 @@ spotify-this-song a whiter shade of pale
     Preview: https://p.scdn.co/mp3-preview/9ca803c59e8b3c136fbdc1d104fa2423ebc8cb0d?cid=162f85e1ea3449d8a736114a78b3835f
     Album: A Whiter Shade of Pale
             
+spotify-this-song
+
+
+    Artist: Ace of Base
+    Track: The Sign
+    Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=162f85e1ea3449d8a736114a78b3835f
+    Album: The Sign (US Album) [Remastered]
+            
+spotify-this-song
+
+spotify-this-song the devil went down to georgia
+
+
+    Artist: The Charlie Daniels Band
+    Track: The Devil Went Down to Georgia
+    Preview: https://p.scdn.co/mp3-preview/1b27e97c4003928162d8be2bacd72632056d95d1?cid=162f85e1ea3449d8a736114a78b3835f
+    Album: Million Mile Reflections
+            
+spotify-this-song
+
+
+    Artist: The Charlie Daniels Band
+    Track: The Devil Went Down to Georgia
+    Preview: https://p.scdn.co/mp3-preview/1b27e97c4003928162d8be2bacd72632056d95d1?cid=162f85e1ea3449d8a736114a78b3835f
+    Album: Million Mile Reflections
+            
