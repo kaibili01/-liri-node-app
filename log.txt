@@ -1,0 +1,173 @@
+
+
+    Artist: Backstreet Boys
+    Track: I Want It That Way
+    Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=162f85e1ea3449d8a736114a78b3835f
+    Album: The Hits--Chapter One
+            
+spotify-this-song
+
+
+    Artist: Ace of Base
+    Track: The Sign
+    Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=162f85e1ea3449d8a736114a78b3835f
+    Album: The Sign (US Album) [Remastered]
+            
+spotify-this-song
+
+
+    Artist: Ace of Base
+    Track: The Sign
+    Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=162f85e1ea3449d8a736114a78b3835f
+    Album: The Sign (US Album) [Remastered]
+            
+spotify-this-song la bamba
+
+
+    Artist: Ritchie Valens
+    Track: La Bamba
+    Preview: https://p.scdn.co/mp3-preview/15fe176a40d3b34f83553eccc43743c9d039d3ca?cid=162f85e1ea3449d8a736114a78b3835f
+    Album: Ritchie Valens
+            
+spotify-this-song the boy with the thorn on his side
+
+
+    Artist: Holden
+    Track: The Boy With a Thorn On His Side
+    Preview: https://p.scdn.co/mp3-preview/da8f2065c4994a243cdea87b142887b2be878888?cid=162f85e1ea3449d8a736114a78b3835f
+    Album: Chevrotine
+            
+movie this brad pitt
+
+movie this figh club
+
+movie-this fight club
+
+
+    Title: Fight Club
+    Released: 1999
+    IMDB Rating: 8.8
+    Rotten Tomatos Rating: 79%
+    Country: USA, Germany
+    Language: English
+    Plot: An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.
+    Actors: Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier
+            
+concert-this danzig
+undefined
+concert-this mazzy star
+
+
+    Venue: Cathedral Sanctuary at Immanuel Presbyterian
+    Location: Los Angeles, CA
+    Event Date: February 27, 2019
+            
+
+movie-this american me
+
+
+    Title: American Me
+    Released: 1992
+    IMDB Rating: 7.2
+    Rotten Tomatos Rating: 78%
+    Country: USA
+    Language: English
+    Plot: A Mexican-American Mafia kingpin is released from prison, falls in love for the first time, and grows introspective about his gangster lifestyle.
+    Actors: Sal Lopez, Vira Montes, Roberto Martín Márquez, Dyana Ortelli
+            
+spotify-this-song the wild horses
+
+
+    Artist: The Rolling Stones
+    Track: Wild Horses - Remastered
+    Preview: null
+    Album: Sticky Fingers (Remastered)
+            
+spotify-this-song come together
+
+
+    Artist: The Beatles
+    Track: Come Together - Remastered 2009
+    Preview: null
+    Album: Abbey Road (Remastered)
+            
+
+
+
+
+movie-this the royal tenenbaums
+
+
+    Title: The Royal Tenenbaums
+    Released: 2001
+    IMDB Rating: 7.6
+    Rotten Tomatos Rating: 80%
+    Country: USA
+    Language: English, Italian
+    Plot: The eccentric members of a dysfunctional family reluctantly gather under the same roof for various reasons.
+    Actors: Gene Hackman, Anjelica Huston, Ben Stiller, Gwyneth Paltrow
+            
+
+
+movie-this roma
+
+
+    Title: Roma
+    Released: 2018
+    IMDB Rating: 8.0
+    Rotten Tomatos Rating: 96/100
+    Country: Mexico, USA
+    Language: Spanish, North American Indian, English, Norwegian, Japanese, German, French
+    Plot: A year in the life of a middle-class family's maid in Mexico City in the early 1970s.
+    Actors: Yalitza Aparicio, Marina de Tavira, Diego Cortina Autrey, Carlos Peralta
+            
+movie-this the lion king
+
+
+    Title: The Lion King
+    Released: 1994
+    IMDB Rating: 8.5
+    Rotten Tomatos Rating: 93%
+    Country: USA
+    Language: English, Swahili, Xhosa, Zulu
+    Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+    Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+            
+do-what-it-says
+
+
+    Artist: Backstreet Boys
+    Track: I Want It That Way
+    Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=162f85e1ea3449d8a736114a78b3835f
+    Album: The Hits--Chapter One
+            
+spotify-this-song arenita azul
+
+
+    Artist: Lila Downs
+    Track: Arenita Azul
+    Preview: null
+    Album: Tree Of Life
+            
+movie-this
+
+
+    Title: Mr. Nobody
+    Released: 2009
+    IMDB Rating: 7.8
+    Rotten Tomatos Rating: 67%
+    Country: Belgium, Germany, Canada, France, USA, UK
+    Language: English, Mohawk
+    Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+    Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+            
+concert-this
+
+spotify-this-song
+
+
+    Artist: Ace of Base
+    Track: The Sign
+    Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=162f85e1ea3449d8a736114a78b3835f
+    Album: The Sign (US Album) [Remastered]
+            
