@@ -183,3 +183,11 @@ movie-this good will hunting
     Plot: Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.
     Actors: Matt Damon, Ben Affleck, Stellan Skarsgård, John Mighton
             
+spotify-this-song a whiter shade of pale
+
+
+    Artist: Procol Harum
+    Track: A Whiter Shade of Pale - Original Single Version
+    Preview: https://p.scdn.co/mp3-preview/9ca803c59e8b3c136fbdc1d104fa2423ebc8cb0d?cid=162f85e1ea3449d8a736114a78b3835f
+    Album: A Whiter Shade of Pale
+            
