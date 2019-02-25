@@ -6,7 +6,7 @@ LIRI is a command line node app that will search Spotify for songs, Bands in Tow
 To retrieve a listing of upcoming concerts from a specific band/artist enter:
 
 node liri.js concert-this <enter in specific band/artist> 
-![GitHub Logo](./images/concert-this_with_band)
+![GitHub Logostat](./images/concert-this_with_band)
 Format: ![Alt Text](url)
 
 
