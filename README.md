@@ -9,7 +9,7 @@ To retrieve a listing of upcoming concerts from a specific band/artist enter:
 ![concert-this_with_band](./images/concert-this_with_band.png)
 
 
-<p>To retrieve song info from your favorite track enter:</p>
+To retrieve song info from your favorite track enter:
 
 <code>node liri.js spotify-this-song <enter song></code>
 ![spotify-this-song_with_song](./images/spotify-this-song_with_song.png)
