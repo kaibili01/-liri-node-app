@@ -11,13 +11,13 @@ To retrieve a listing of upcoming concerts from a specific band/artist enter:
 
 To retrieve song info from your favorite track enter:
 
-<code>node liri.js spotify-this-song <enter song></code>
+<code>node liri.js spotify-this-song <enter song/title></code>
 ![spotify-this-song_with_song](./images/spotify-this-song_with_song.png)
 
 
 To retrieve movie info from your favorite film enter:
 
-<code>node liri.js movie-this <enter movie name></code>
+<code>node liri.js movie-this <enter movie name/title></code>
 ![movie-this_with_movie](./images/movie-this_with_movie.png)
 
 
