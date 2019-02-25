@@ -171,3 +171,15 @@ spotify-this-song
     Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=162f85e1ea3449d8a736114a78b3835f
     Album: The Sign (US Album) [Remastered]
             
+movie-this good will hunting
+
+
+    Title: Good Will Hunting
+    Released: 1997
+    IMDB Rating: 8.3
+    Rotten Tomatos Rating: 97%
+    Country: USA
+    Language: English
+    Plot: Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.
+    Actors: Matt Damon, Ben Affleck, Stellan Skarsgård, John Mighton
+            
