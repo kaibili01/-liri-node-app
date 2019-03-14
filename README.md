@@ -25,3 +25,6 @@ Bonous command below. Enter and see what it does:
 
 <code>node liri.js do-what-it-says</code>
 ![do-what-it-says](./images/do-what-it-says.png)
+
+video
+https://youtu.be/63FMuEErwFw
